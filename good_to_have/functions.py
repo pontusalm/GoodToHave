@@ -16,3 +16,7 @@ if __name__ == "__main__":
     print("Testing")
     x = getInputBetween(100, 200)
     print(x)
+
+
+def getBestPlayer()->str:
+    return "Mats Sundin"
